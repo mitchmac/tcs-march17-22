@@ -9,6 +9,7 @@
     "export": "npm run build && next export"
   },
   "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
     "@tinacms/cli": "^0.60.8",
     "@types/js-cookie": "^3.0.0",
     "@types/node": "^16.11.7",
@@ -18,7 +19,8 @@
     "postcss": "^8.3.11",
     "postcss-import": "^14.0.2",
     "postcss-nesting": "^10.1.0",
-    "tailwindcss": "^2.2.19"
+    "tailwindcss": "^2.2.19",
+    "yaml": "^1.10.2"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
