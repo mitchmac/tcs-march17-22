@@ -2,7 +2,7 @@ const { faker } = require('@faker-js/faker');
 const YAML = require('yaml');
 const fs = require('fs');
 
-for (let i = 0; i < 40; i++) {
+for (let i = 0; i < 30; i++) {
   let content = YAML.stringify(
     {
       title: faker.lorem.sentence(5),
