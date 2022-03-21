@@ -230,7 +230,7 @@
                   "name": "color",
                   "options": [
                     {
-                      "label": "Primary",
+                      "label": "Primary!",
                       "value": "primary"
                     },
                     {
@@ -977,7 +977,7 @@
                           "name": "color",
                           "options": [
                             {
-                              "label": "Primary",
+                              "label": "Primary!",
                               "value": "primary"
                             },
                             {
